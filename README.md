@@ -76,8 +76,11 @@ b. Sentiment Analysis
 
 b.1 Machine Learning Algorithms
 
-* [Accuracy]![Screen Shot 2021-02-01 at 12 20 48 AM](https://user-images.githubusercontent.com/63126292/106421972-5fdec500-6423-11eb-9edf-4e5de62c1a93.png)
-* [Log Loss]![Screen Shot 2021-02-01 at 12 20 55 AM](https://user-images.githubusercontent.com/63126292/106422031-79800c80-6423-11eb-816b-c85973174c77.png)
+* Accuracy
+![Screen Shot 2021-02-01 at 12 20 48 AM](https://user-images.githubusercontent.com/63126292/106421972-5fdec500-6423-11eb-9edf-4e5de62c1a93.png)
+
+* Log Loss
+![Screen Shot 2021-02-01 at 12 20 55 AM](https://user-images.githubusercontent.com/63126292/106422031-79800c80-6423-11eb-816b-c85973174c77.png)
 
 * TF-IDF is the best model that has the highest accuracy score for both NernoulliNB and Logistic regression
 
