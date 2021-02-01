@@ -9,6 +9,20 @@ The dataset belongs to [Stanford Network Analysis Project](https://snap.stanford
 ![31d13c99ee841869ca44ef54ba956272](https://user-images.githubusercontent.com/63126292/106423731-a550c180-6426-11eb-84a7-ca4f738f5ae2.png)
 
 ## 1. What are the target of this project?
+a. Business Acumen:
+* After understanding the Amazon Fine Food review dataset, as a data scientist, I have few questions to set up the outline that helps me dive into the project.
+** What is the connection between the food review score with the reviews and the products?
+** Any correlation between products and top users who often write reviews?
+** Can I extract the top product based on users’ recommendation?
+** What are the top words that help business to understand whether it is a good review or not?
+** Can I predict the positive and the negative reviews?
+** For building a better prediction, should I choose machine learning algorithms or deep learning model?
+
+* Those questions help me to separate the dataset into two parts:
+** One is the correlation of userID, producID, review score to bring up the business solution: recommend food product item
+** Another is the correlation of plaintext reviews with the sentiment analysis
+
+b. Target:
 * Analyzing the top review, top product, top user for fine food
 * Applying Sentiment Analysis to analyze the plaintext review
 
