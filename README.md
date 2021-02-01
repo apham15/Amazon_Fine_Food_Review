@@ -42,7 +42,9 @@ a.2. Building Collabrating Filtering
 
 * Based on the real value and the predict value, it is clear to see that the predictive recomendation system is great
 * The Popularity-based recommender system is non-personalised and the recommendations are based on frequecy counts, which may be not suitable to the user.You can see the differance above for the user id 70 and 100, The Popularity based model has recommended the same set of 5 or 6 products to both but Collaborative Filtering based model has recommended entire different list based on the user past purchase history
+
 b. Sentiment Analysis
+
 b.1 Machine Learning Algorithms
 
 * [Accuracy]![Screen Shot 2021-02-01 at 12 20 48 AM](https://user-images.githubusercontent.com/63126292/106421972-5fdec500-6423-11eb-9edf-4e5de62c1a93.png)
