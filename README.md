@@ -1,5 +1,7 @@
 # Amazon_Fine_Food_Review
 [Amazon.com, Inc.](https://www.amazon.com/) is an American multinational technology company based in Seattle, Washington, which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. The fine food data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plaintext review.
+![31d13c99ee841869ca44ef54ba956272](https://user-images.githubusercontent.com/63126292/106423731-a550c180-6426-11eb-84a7-ca4f738f5ae2.png)
+
 ## 1. What are the target of this project?
 * Analyzing the top review, top product, top user for fine food
 * Applying Sentiment Analysis to analyze the plaintext review
