@@ -69,6 +69,6 @@ b.3 Deep Learning
 ![download (1)](https://user-images.githubusercontent.com/63126292/106423224-a6352380-6425-11eb-8ad2-b924ba4855b8.png)
 
 ##4. Conclusion
-* Amazon Fine Food Review dataset is the credible one. It allows me to utilized all my skills: statistical analysis, supervised learning method, unsupervised learning method, machine learning algorithm, deep learning. 
+* Amazon Fine Food Review dataset is the incredible one. It allows me to utilized all my skills: statistical analysis, supervised learning method, unsupervised learning method, machine learning algorithm, deep learning. 
 * From this dataset, I learn that with deep learning, everything is so simple. Kereas class with tokenzie to vectorize word is faster than TF-IDF traditional method. Also, RNN-LSTM utilized the plaintext review vectorized to bring up the better accuracy score for future sentiment analysis
 * My work is useful for all type of e-commerce because it can apply for both strategy team and customer service team to help the business to be better.
