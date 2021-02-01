@@ -34,9 +34,11 @@ b. Target:
 * Analyzing the top review, top product, top user for fine food
 * Applying Sentiment Analysis to analyze the plaintext review
 
-[Words in Positive Reviews]![download (6)](https://user-images.githubusercontent.com/63126292/106503106-d82ca100-648a-11eb-85bb-b7b8486e0e17.png)
+Words in Positive Reviews
+![download (6)](https://user-images.githubusercontent.com/63126292/106503106-d82ca100-648a-11eb-85bb-b7b8486e0e17.png)
 
-[Word in Nevative Reviews]![download (7)](https://user-images.githubusercontent.com/63126292/106503136-e24e9f80-648a-11eb-9649-70ffc90acbad.png)
+Word in Nevative Reviews
+![download (7)](https://user-images.githubusercontent.com/63126292/106503136-e24e9f80-648a-11eb-9649-70ffc90acbad.png)
 
 ## 2. My solution
 a. Create a Recommendation system based on Sparse Matrix for fine food
