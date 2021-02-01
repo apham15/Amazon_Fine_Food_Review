@@ -26,12 +26,14 @@ b. Sentiment Analyse
 * Evaluating model based on log loss and accuracy score
 ## 3. Outcome
 a. Recommendation system with Sparse Matrix ```scipy.sparse.linalg.svds```
+
 a.1. Building Popularity Recommender system
 
 ![Screen Shot 2021-02-01 at 12 18 47 AM](https://user-images.githubusercontent.com/63126292/106421861-1c845680-6423-11eb-806f-18718e28b9ff.png)
 
 * Since this is a popularity-based recommender model, recommendations remain the same for all users
 * We predict the products based on the popularity. It is not personalized to particular user
+
 a.2. Building Collabrating Filtering
 * Model-based Collaborative Filtering is a personalised recommender system, the recommendations are based on the past behavior of the user and it is not dependent on any additional information.
 
